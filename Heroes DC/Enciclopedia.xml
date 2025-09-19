@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Enciclopedia.xsl"?>
+
+<enciclopediaDC>
+    <personaje id="1">
+        <nombre>Superman</nombre>
+        <nombreReal>Clark Kent</nombreReal>
+        <alias>El Hombre de Acero</alias>
+        <afiliaciones>
+            <grupo>Justice League</grupo>
+        </afiliaciones>
+        <poderes>
+            <poder>Superfuerza</poder>
+            <poder>Vuelo</poder>
+            <poder>Visión de rayos X</poder>
+            <poder>Invulnerabilidad</poder>
+        </poderes>
+        <debilidades>
+            <debilidad>Kryptonita</debilidad>
+            <debilidad>Magia</debilidad>
+        </debilidades>
+        <ciudad>Metropolis</ciudad>
+        <primeraAparicion>1938</primeraAparicion>
+        <editorial>DC Comics</editorial>
+        <imagen>./Imagenes/Superman.jpeg</imagen>
+    </personaje>
+
+    <personaje id="2">
+        <nombre>Batman</nombre>
+        <nombreReal>Bruce Wayne</nombreReal>
+        <alias>El Caballero Oscuro</alias>
+        <afiliaciones>
+            <grupo>Justice League</grupo>
+            <grupo>Bat-Family</grupo>
+        </afiliaciones>
+        <poderes>
+            <poder>Intelecto estratégico</poder>
+            <poder>Habilidades marciales</poder>
+            <poder>Gadgets tecnológicos</poder>
+        </poderes>
+        <debilidades>
+            <debilidad>Condición humana</debilidad>
+            <debilidad>Trauma emocional</debilidad>
+        </debilidades>
+        <ciudad>Gotham City</ciudad>
+        <primeraAparicion>1939</primeraAparicion>
+        <editorial>DC Comics</editorial>
+        <imagen>./Imagenes/Batman.jpeg</imagen>
+    </personaje>
+
+    <personaje id="3">
+        <nombre>Wonder Woman</nombre>
+        <nombreReal>Diana Prince</nombreReal>
+        <alias>Princesa Amazona</alias>
+        <afiliaciones>
+            <grupo>Justice League</grupo>
+            <grupo>Amazons</grupo>
+        </afiliaciones>
+        <poderes>
+            <poder>Superfuerza</poder>
+            <poder>Vuelo</poder>
+            <poder>Lazo de la verdad</poder>
+            <poder>Entrenamiento en combate</poder>
+        </poderes>
+        <debilidades>
+            <debilidad>Ataduras mágicas</debilidad>
+        </debilidades>
+        <ciudad>Themyscira</ciudad>
+        <primeraAparicion>1941</primeraAparicion>
+        <editorial>DC Comics</editorial>
+        <imagen>./Imagenes/WonderWoman.jpeg</imagen>
+    </personaje>
+
+    <personaje id="4">
+        <nombre>The Flash</nombre>
+        <nombreReal>Barry Allen</nombreReal>
+        <alias>El hombre más rápido del mundo</alias>
+        <afiliaciones>
+            <grupo>Justice League</grupo>
+            <grupo>Flash Family</grupo>
+        </afiliaciones>
+        <poderes>
+            <poder>Supervelocidad</poder>
+            <poder>Viaje en el tiempo</poder>
+            <poder>Reflejos sobrehumanos</poder>
+        </poderes>
+        <debilidades>
+            <debilidad>Vibración fuera de fase</debilidad>
+        </debilidades>
+        <ciudad>Central City</ciudad>
+        <primeraAparicion>1956</primeraAparicion>
+        <editorial>DC Comics</editorial>
+        <imagen>./Imagenes/TheFlash.jpeg</imagen>
+    </personaje>
+
+    <personaje id="5">
+        <nombre>Lex Luthor</nombre>
+        <nombreReal>Lex Luthor</nombreReal>
+        <alias>Genio del mal</alias>
+        <afiliaciones>
+            <grupo>Injustice League</grupo>
+        </afiliaciones>
+        <poderes>
+            <poder>Intelecto supremo</poder>
+            <poder>Armadura de poder</poder>
+        </poderes>
+        <debilidades>
+            <debilidad>Ego</debilidad>
+        </debilidades>
+        <ciudad>Metropolis</ciudad>
+        <primeraAparicion>1940</primeraAparicion>
+        <editorial>DC Comics</editorial>
+        <imagen>./Imagenes/Lex_Luthor.png</imagen>
+    </personaje>
+
+    <personaje id="6">
+        <nombre>Harley Quinn</nombre>
+        <nombreReal>Harleen Quinzel</nombreReal>
+        <alias>La Princesa del Crimen</alias>
+        <afiliaciones>
+            <grupo>Suicide Squad</grupo>
+            <grupo>Gotham City Sirens</grupo>
+        </afiliaciones>
+        <poderes>
+            <poder>Agilidad</poder>
+            <poder>Fuerza impredecible</poder>
+            <poder>Inmunidad a toxinas</poder>
+        </poderes>
+        <debilidades>
+            <debilidad>Impulsividad</debilidad>
+        </debilidades>
+        <ciudad>Gotham City</ciudad>
+        <primeraAparicion>1992</primeraAparicion>
+        <editorial>DC Comics</editorial>
+        <imagen>./Imagenes/Harley_Queen.jpeg</imagen>
+    </personaje>
+
+    <personaje id="7">
+        <nombre>Darkseid</nombre>
+        <nombreReal>Uxas</nombreReal>
+        <alias>Señor de Apokolips</alias>
+        <afiliaciones>
+            <grupo>Nuevos Dioses</grupo>
+        </afiliaciones>
+        <poderes>
+            <poder>Rayos Omega</poder>
+            <poder>Fuerza colosal</poder>
+            <poder>Telepatía</poder>
+        </poderes>
+        <debilidades>
+            <debilidad>Radión</debilidad>
+        </debilidades>
+        <ciudad>Apokolips</ciudad>
+        <primeraAparicion>1970</primeraAparicion>
+        <editorial>DC Comics</editorial>
+        <imagen>./Imagenes/Darkseid.jpeg</imagen>
+    </personaje>
+
+    <personaje id="8">
+        <nombre>Alfred Pennyworth</nombre>
+        <nombreReal>Alfred Thaddeus Crane Pennyworth</nombreReal>
+        <alias>Mayordomo de los Wayne</alias>
+        <afiliaciones>
+            <grupo>Bat-Family</grupo>
+        </afiliaciones>
+        <poderes>
+            <poder>Médico de combate</poder>
+            <poder>Espía retirado</poder>
+        </poderes>
+        <debilidades>
+            <debilidad>Edad avanzada</debilidad>
+        </debilidades>
+        <ciudad>Gotham City</ciudad>
+        <primeraAparicion>1943</primeraAparicion>
+        <editorial>DC Comics</editorial>
+        <imagen>./Imagenes/Alfred.jpg</imagen>
+    </personaje>
+
+    <personaje id="9">
+        <nombre>Catwoman</nombre>
+        <nombreReal>Selina Kyle</nombreReal>
+        <alias>La gata ladrona</alias>
+        <afiliaciones>
+            <grupo>Gotham City Sirens</grupo>
+        </afiliaciones>
+        <poderes>
+            <poder>Agilidad felina</poder>
+            <poder>Maestra ladrona</poder>
+            <poder>Combate cuerpo a cuerpo</poder>
+        </poderes>
+        <debilidades>
+            <debilidad>Afiliaciones inestables</debilidad>
+        </debilidades>
+        <ciudad>Gotham City</ciudad>
+        <primeraAparicion>1940</primeraAparicion>
+        <editorial>DC Comics</editorial>
+        <imagen>./Imagenes/Catwoman.jpeg</imagen>
+    </personaje>
+
+    <personaje id="10">
+        <nombre>Joker</nombre>
+        <nombreReal>Desconocido</nombreReal>
+        <alias>El Príncipe Payaso del Crimen</alias>
+        <afiliaciones>
+            <grupo>Injustice League</grupo>
+        </afiliaciones>
+        <poderes>
+            <poder>Intelecto criminal</poder>
+            <poder>Manipulación psicológica</poder>
+            <poder>Inmunidad al gas del miedo</poder>
+        </poderes>
+        <debilidades>
+            <debilidad>Inestabilidad mental</debilidad>
+            <debilidad>Obsesión con Batman</debilidad>
+        </debilidades>
+        <ciudad>Gotham City</ciudad>
+        <primeraAparicion>1940</primeraAparicion>
+        <editorial>DC Comics</editorial>
+        <imagen>./Imagenes/Joker.jpeg</imagen>
+    </personaje>
+</enciclopediaDC>
